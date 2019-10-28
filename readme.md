@@ -1,4 +1,4 @@
 # have to do
 
-- validation
+- every kind of validations
 - pick up the random name of the city
